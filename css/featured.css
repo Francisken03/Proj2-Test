@@ -1,0 +1,33 @@
+.featured-section {
+    margin: 10px 20px;
+    background-color: #ECECE7;
+    min-height: 100vh;
+}
+
+.card {
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.img-container {
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: orange;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.img-container {
+    position: relative;
+    box-sizing: border-box;
+    border: 10px;
+}
+
+.card-top {
+    position:absolute;
+    width: 100%;
+}
